@@ -1,0 +1,17 @@
+# Entorno virtual
+env/
+venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Configuración de Visual Studio Code
+.vscode/
+
+# Archivos de base de datos locales
+*.sqlite3
+database.db
+
+# Archivos de configuración
+.env
